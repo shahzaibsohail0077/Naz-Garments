@@ -1,3 +1,24 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+
+    margin: 0;
+    padding: 0;
+}
+.scrollToTop{
+    position: fixed;
+    width: 50px;
+    height: 50px;
+    background-color: #D2691E;
+    bottom: 40px;
+    right: 50px;
+    text-decoration: none;
+    text-align: center;
+    line-height: 50px;
+    color: black;
+    font-size: 22px;
+}
 .head-text{
     padding: 10px 0;
     font-size: x-large;
